@@ -1,0 +1,22 @@
+{
+  "name": "tabaradetestare",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muanro/TabaraDeTestare.git"
+  },
+  "author": "ancasipali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muanro/TabaraDeTestare/issues"
+  },
+  "homepage": "https://github.com/muanro/TabaraDeTestare#readme",
+  "dependencies": {
+    "formidable": "^1.0.17"
+  }
+}
